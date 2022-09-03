@@ -1,0 +1,41 @@
+ToDo
+
+Tabs:
+	Home-
+		Social Icons
+			Use twitter icon to link to twitter
+			etc..
+			Discord Channel
+		
+		Recent stuff
+			Videos
+			Photos of events
+			recent news
+			Hype page kinda
+			Upcoming concerts
+		Search Bar
+		
+	News-
+	
+	Venues-
+		Tickets
+		Display Cuyrent and upcoiming music
+	
+	Music-
+		New and unreales
+	Photos-
+		Old
+	Videos-
+		New and trailers
+	Merch-
+		self explanatory
+	
+	About (last tab)-
+		
+	
+Account Creation:
+
+Keep tabs at top of screen at all time:
+
+	
+Fix image resize on background:
